@@ -1,0 +1,501 @@
+CERT,NAMEFULL,MSANAMB,METROBR,DEPSUMBR,SIMS_LATITUDE,SIMS_LONGITUDE,STNAMEBR,BRNUM,YEAR,metro_status
+14,State Street Bank and Trust Company,"Boston-Cambridge-Newton, MA-NH",1,207849000,42.3628544213077,-71.0598264127317,Massachusetts,0,2025,Metropolitan
+35,AuburnBank,"Auburn-Opelika, AL",1,553080,32.6067929959888,-85.4796030304765,Alabama,0,2025,Metropolitan
+35,AuburnBank,"Auburn-Opelika, AL",1,60269,32.6227529372695,-85.4032138197326,Alabama,10,2025,Metropolitan
+35,AuburnBank,"Auburn-Opelika, AL",1,94392,32.6088549860794,-85.4293729669551,Alabama,12,2025,Metropolitan
+35,AuburnBank,"Auburn-Opelika, AL",1,107955,32.6481410081722,-85.3757140344827,Alabama,3,2025,Metropolitan
+35,AuburnBank,"Auburn-Opelika, AL",1,52561,32.5796940096559,-85.4878339755758,Alabama,7,2025,Metropolitan
+35,AuburnBank,"Auburn-Opelika, AL",1,17566,32.5710740185208,-85.6608510416284,Alabama,8,2025,Metropolitan
+39,Robertson Banking Company,"Tuscaloosa, AL",1,47743,33.200955979154,-87.5652630289855,Alabama,5,2025,Metropolitan
+39,Robertson Banking Company,"Tuscaloosa, AL",1,18982,33.2364949971607,-87.5511499995138,Alabama,6,2025,Metropolitan
+39,Robertson Banking Company,"Birmingham, AL",1,26387,33.5166619967281,-86.8104780124549,Alabama,7,2025,Metropolitan
+39,Robertson Banking Company,"Birmingham, AL",1,24488,33.4839448995642,-86.7907086719873,Alabama,8,2025,Metropolitan
+41,Phenix-Girard Bank,"Columbus, GA-AL",1,263924,32.4702980194568,-85.0039140158351,Alabama,0,2025,Metropolitan
+41,Phenix-Girard Bank,"Columbus, GA-AL",1,11504,32.4982635727448,-85.0167966729646,Alabama,3,2025,Metropolitan
+41,Phenix-Girard Bank,"Columbus, GA-AL",1,25355,32.4975392524356,-85.0432083908537,Alabama,4,2025,Metropolitan
+41,Phenix-Girard Bank,"Auburn-Opelika, AL",1,10250,32.5129396,-85.0777437,Alabama,5,2025,Metropolitan
+54,The Exchange Bank of Alabama,"Gadsden, AL",1,31732,34.0254848020175,-86.3258907030408,Alabama,0,2025,Metropolitan
+54,The Exchange Bank of Alabama,"Gadsden, AL",1,53892,34.0179910017261,-86.0691550029764,Alabama,1,2025,Metropolitan
+54,The Exchange Bank of Alabama,"Gadsden, AL",1,107685,34.0141999926484,-86.0012299874803,Alabama,2,2025,Metropolitan
+54,The Exchange Bank of Alabama,"Gadsden, AL",1,117140,33.963841979375,-86.0301590366429,Alabama,3,2025,Metropolitan
+54,The Exchange Bank of Alabama,"Gadsden, AL",1,25023,34.0370320035317,-86.0219969907878,Alabama,5,2025,Metropolitan
+58,United Bank,"Daphne-Fairhope-Foley, AL",1,21303,30.471702136112,-87.698774990844,Alabama,11,2025,Metropolitan
+58,United Bank,"Pensacola-Ferry Pass-Brent, FL",1,86935,30.6345950069998,-87.0728470045481,Florida,14,2025,Metropolitan
+58,United Bank,"Pensacola-Ferry Pass-Brent, FL",1,63707,30.947825010376,-87.1519129942879,Florida,15,2025,Metropolitan
+58,United Bank,"Pensacola-Ferry Pass-Brent, FL",1,39404,30.603290987482,-87.1528210058589,Florida,18,2025,Metropolitan
+58,United Bank,"Daphne-Fairhope-Foley, AL",1,39976,30.619975,-87.751618,Alabama,19,2025,Metropolitan
+58,United Bank,"Daphne-Fairhope-Foley, AL",1,22678,30.62823398068,-87.910754013765,Alabama,23,2025,Metropolitan
+58,United Bank,"Mobile, AL",1,36959,30.7634199973025,-88.2250700184261,Alabama,24,2025,Metropolitan
+58,United Bank,"Daphne-Fairhope-Foley, AL",1,51060,30.4011100113397,-87.6845140418431,Alabama,5,2025,Metropolitan
+58,United Bank,"Daphne-Fairhope-Foley, AL",1,50335,30.409824005519,-87.4411250313004,Alabama,6,2025,Metropolitan
+58,United Bank,"Daphne-Fairhope-Foley, AL",1,80449,30.8824819982436,-87.7748459800029,Alabama,7,2025,Metropolitan
+58,United Bank,"Daphne-Fairhope-Foley, AL",1,40758,30.544555,-87.75073,Alabama,8,2025,Metropolitan
+58,United Bank,"Daphne-Fairhope-Foley, AL",1,62272,30.40679,-87.767783,Alabama,9,2025,Metropolitan
+72,Central State Bank,"Birmingham, AL",1,370425,33.103567987263,-86.749089037417,Alabama,0,2025,Metropolitan
+72,Central State Bank,"Birmingham, AL",1,44678,33.1665319183961,-86.7769209268439,Alabama,1,2025,Metropolitan
+72,Central State Bank,"Birmingham, AL",1,78938,33.2886340125165,-86.8107223383183,Alabama,2,2025,Metropolitan
+72,Central State Bank,"Birmingham, AL",1,19949,33.1473219828435,-86.7479760044943,Alabama,3,2025,Metropolitan
+72,Central State Bank,"Birmingham, AL",1,88255,33.2154019797293,-86.827009975364,Alabama,4,2025,Metropolitan
+72,Central State Bank,"Birmingham, AL",1,14109,33.412337016041,-86.674954037496,Alabama,5,2025,Metropolitan
+77,BankSouth,"Dothan, AL",1,121127,31.2359429994765,-85.4324389833177,Alabama,0,2025,Metropolitan
+77,BankSouth,"Dothan, AL",1,47663,31.5649700000001,-85.2479049999999,Alabama,2,2025,Metropolitan
+88,Generations Bank,"Fayetteville-Springdale-Rogers, AR",1,329359,36.284134162722,-94.16340919871,Arkansas,0,2025,Metropolitan
+88,Generations Bank,"Fayetteville-Springdale-Rogers, AR",1,77227,36.1181366053029,-94.1586534744867,Arkansas,12,2025,Metropolitan
+88,Generations Bank,"Fayetteville-Springdale-Rogers, AR",1,19818,36.331514462983,-94.2222592952765,Arkansas,15,2025,Metropolitan
+88,Generations Bank,"Fayetteville-Springdale-Rogers, AR",1,136094,36.1835061461588,-94.5153874412716,Arkansas,7,2025,Metropolitan
+88,Generations Bank,"Fort Smith, AR-OK",1,67902,35.4441599999999,-94.3269609999999,Arkansas,9,2025,Metropolitan
+89,Signature Bank of Arkansas,"Fayetteville-Springdale-Rogers, AR",1,559240,36.1213091975643,-94.1185283819765,Arkansas,0,2025,Metropolitan
+89,Signature Bank of Arkansas,"Fayetteville-Springdale-Rogers, AR",1,80715,36.3023830746777,-94.1900421931362,Arkansas,15,2025,Metropolitan
+89,Signature Bank of Arkansas,"Jonesboro, AR",1,60567,35.838628046139,-90.70068272329,Arkansas,17,2025,Metropolitan
+89,Signature Bank of Arkansas,"Fayetteville-Springdale-Rogers, AR",1,15882,36.33247649592,-94.116354535388,Arkansas,18,2025,Metropolitan
+89,Signature Bank of Arkansas,"Fayetteville-Springdale-Rogers, AR",1,2144,36.184913132426,-94.131079359972,Arkansas,19,2025,Metropolitan
+89,Signature Bank of Arkansas,"Fayetteville-Springdale-Rogers, AR",1,153146,36.3349263166706,-94.2030874519623,Arkansas,5,2025,Metropolitan
+89,Signature Bank of Arkansas,"Fayetteville-Springdale-Rogers, AR",1,212475,36.1768858371222,-94.2079147712225,Arkansas,6,2025,Metropolitan
+93,Riverside Bank,"Little Rock-North Little Rock-Conway, AR",1,40119,34.7493447851154,-92.2812778187363,Arkansas,1,2025,Metropolitan
+109,Horatio State Bank,"Texarkana, TX-AR",1,37098,33.7213177716924,-94.3934456698566,Arkansas,2,2025,Metropolitan
+109,Horatio State Bank,"Texarkana, TX-AR",1,6760,33.674132308771,-94.1328273220606,Arkansas,3,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,7874722,34.8103564068723,-92.4703932518467,Arkansas,0,2025,Metropolitan
+110,Bank OZK,"Savannah, GA",1,173000,31.9911409923766,-81.1296139662758,Georgia,104,2025,Metropolitan
+110,Bank OZK,"North Port-Bradenton-Sarasota, FL",1,137979,27.5155649927983,-82.5733309903058,Florida,108,2025,Metropolitan
+110,Bank OZK,"Fort Smith, AR-OK",1,40453,35.4589323342998,-94.3550064119304,Arkansas,11,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,185151,34.3611099917261,-84.0332390014237,Georgia,110,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,90844,34.4207441181466,-84.2859999997002,Georgia,112,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,179861,34.2517204975019,-84.0891237482844,Georgia,113,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,56442,34.6035660545358,-92.5348577147978,Arkansas,115,2025,Metropolitan
+110,Bank OZK,"Brunswick-St. Simons, GA",1,80747,31.1651059850888,-81.3866639702519,Georgia,117,2025,Metropolitan
+110,Bank OZK,"Brunswick-St. Simons, GA",1,86430,31.1934540007233,-81.4791619598303,Georgia,118,2025,Metropolitan
+110,Bank OZK,"Dallas-Fort Worth-Arlington, TX",1,254403,33.028461985769,-96.8256279625118,Texas,119,2025,Metropolitan
+110,Bank OZK,"Fort Smith, AR-OK",1,18973,35.5024726939978,-94.0539913131488,Arkansas,12,2025,Metropolitan
+110,Bank OZK,"Dallas-Fort Worth-Arlington, TX",1,60227,33.0251409919118,-96.8439310215618,Texas,120,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,198523,33.9174129832151,-84.7676099765895,Georgia,121,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,77173,33.341238989188,-84.6465110055388,Georgia,124,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,77532,33.374493980489,-84.7988489944482,Georgia,125,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,85468,33.7379180052029,-84.7342130377582,Georgia,127,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,106722,33.2925320012926,-84.5428769870395,Georgia,128,2025,Metropolitan
+110,Bank OZK,"Valdosta, GA",1,115660,30.8773459870728,-83.2922680318785,Georgia,129,2025,Metropolitan
+110,Bank OZK,"Valdosta, GA",1,20997,30.8304849876233,-83.2801010288671,Georgia,130,2025,Metropolitan
+110,Bank OZK,"Valdosta, GA",1,71266,30.6820680111097,-83.2168940190304,Georgia,131,2025,Metropolitan
+110,Bank OZK,"Valdosta, GA",1,34435,30.84643801248,-83.3163410254365,Georgia,132,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,125610,33.4324340119178,-84.1380270403521,Georgia,133,2025,Metropolitan
+110,Bank OZK,"Ocala, FL",1,375540,29.078691,-82.257888,Florida,134,2025,Metropolitan
+110,Bank OZK,"Gainesville, GA",1,172641,34.2409829861675,-83.8779009617297,Georgia,138,2025,Metropolitan
+110,Bank OZK,"Fort Smith, AR-OK",1,107097,35.36306698125,-94.3721621736754,Arkansas,14,2025,Metropolitan
+110,Bank OZK,"Dallas-Fort Worth-Arlington, TX",1,98551,32.9338049855706,-97.2398649702034,Texas,141,2025,Metropolitan
+110,Bank OZK,"Dallas-Fort Worth-Arlington, TX",1,58728,33.0669630007199,-96.889132026997,Texas,143,2025,Metropolitan
+110,Bank OZK,"Dallas-Fort Worth-Arlington, TX",1,94552,32.9416250078667,-97.1600109977461,Texas,145,2025,Metropolitan
+110,Bank OZK,"Wilmington, NC",1,158657,34.2380970130852,-77.8275480390655,North Carolina,147,2025,Metropolitan
+110,Bank OZK,"Charlotte-Concord-Gastonia, NC-SC",1,252878,35.1739730058117,-80.8517100386562,North Carolina,149,2025,Metropolitan
+110,Bank OZK,"Charlotte-Concord-Gastonia, NC-SC",1,76295,35.2567609796565,-81.149599021836,North Carolina,159,2025,Metropolitan
+110,Bank OZK,"Fort Smith, AR-OK",1,60764,35.4938699988426,-94.2260718596225,Arkansas,16,2025,Metropolitan
+110,Bank OZK,"Charlotte-Concord-Gastonia, NC-SC",1,61576,35.2877360094747,-81.2604019983022,North Carolina,161,2025,Metropolitan
+110,Bank OZK,"Charlotte-Concord-Gastonia, NC-SC",1,68494,35.2470779955606,-81.065195017059,North Carolina,162,2025,Metropolitan
+110,Bank OZK,"Charlotte-Concord-Gastonia, NC-SC",1,80464,35.4799099990539,-81.214841995954,North Carolina,164,2025,Metropolitan
+110,Bank OZK,"North Port-Bradenton-Sarasota, FL",1,116576,27.4478270194716,-82.5157359999212,Florida,165,2025,Metropolitan
+110,Bank OZK,"Houston-Pasadena-The Woodlands, TX",1,69571,29.7045580156634,-95.3451490008017,Texas,168,2025,Metropolitan
+110,Bank OZK,"Austin-Round Rock-San Marcos, TX",1,91940,29.883452011218,-97.6729370363396,Texas,170,2025,Metropolitan
+110,Bank OZK,"Houston-Pasadena-The Woodlands, TX",1,140659,29.7272689918649,-95.5609909703773,Texas,172,2025,Metropolitan
+110,Bank OZK,"Austin-Round Rock-San Marcos, TX",1,149286,30.3657436078089,-97.7512219357194,Texas,173,2025,Metropolitan
+110,Bank OZK,"San Antonio-New Braunfels, TX",1,158751,29.6144230103187,-98.4734529622241,Texas,176,2025,Metropolitan
+110,Bank OZK,"Austin-Round Rock-San Marcos, TX",1,132048,30.480655110665,-97.8286536866001,Texas,177,2025,Metropolitan
+110,Bank OZK,"North Port-Bradenton-Sarasota, FL",1,114447,27.4952649872262,-82.5807489746161,Florida,178,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,181550,34.772050899813,-92.3982050327576,Arkansas,18,2025,Metropolitan
+110,Bank OZK,"Hot Springs, AR",1,143164,34.4642837599219,-93.0721011632458,Arkansas,182,2025,Metropolitan
+110,Bank OZK,"Hot Springs, AR",1,61972,34.506190174495,-93.0571232051855,Arkansas,191,2025,Metropolitan
+110,Bank OZK,"Hot Springs, AR",1,41913,34.46945895649,-93.1375527629338,Arkansas,192,2025,Metropolitan
+110,Bank OZK,"Hot Springs, AR",1,56123,34.6338446320192,-93.0588342030807,Arkansas,197,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,57844,34.7684568654599,-92.3363454976754,Arkansas,199,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,46449,34.7716362470629,-92.3572718409622,Arkansas,20,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,96678,34.6216950373986,-92.8595418431096,Arkansas,203,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,84745,35.0862375297985,-92.4722091073507,Arkansas,204,2025,Metropolitan
+110,Bank OZK,"Charlotte-Concord-Gastonia, NC-SC",1,92509,35.4814590166702,-80.8865629978881,North Carolina,205,2025,Metropolitan
+110,Bank OZK,"Tampa-St. Petersburg-Clearwater, FL",1,139132,27.9418840110031,-82.7469570016241,Florida,210,2025,Metropolitan
+110,Bank OZK,"Tampa-St. Petersburg-Clearwater, FL",1,151268,27.7575779882062,-82.7321259783265,Florida,213,2025,Metropolitan
+110,Bank OZK,"Winston-Salem, NC",1,86623,35.9968370133996,-80.4360719958488,North Carolina,215,2025,Metropolitan
+110,Bank OZK,"Charlotte-Concord-Gastonia, NC-SC",1,121969,35.547751991799,-80.6096270124473,North Carolina,216,2025,Metropolitan
+110,Bank OZK,"Greensboro-High Point, NC",1,81345,35.6919069800954,-79.8175039700314,North Carolina,217,2025,Metropolitan
+110,Bank OZK,"Charlotte-Concord-Gastonia, NC-SC",1,91775,35.3219000181751,-80.6441339667161,North Carolina,218,2025,Metropolitan
+110,Bank OZK,"Winston-Salem, NC",1,71656,35.8258759862864,-80.2563069948257,North Carolina,219,2025,Metropolitan
+110,Bank OZK,"Charlotte-Concord-Gastonia, NC-SC",1,74647,35.4484419876004,-80.59446699945,North Carolina,220,2025,Metropolitan
+110,Bank OZK,"Fayetteville-Springdale-Rogers, AR",1,46024,36.1815726925533,-94.516924682314,Arkansas,225,2025,Metropolitan
+110,Bank OZK,"Fayetteville-Springdale-Rogers, AR",1,82033,36.1196994111499,-94.1376672005922,Arkansas,226,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,143711,33.7309930025279,-84.9382820375908,Georgia,228,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,92352,33.7284159863966,-84.7378139871814,Georgia,229,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,78667,33.8010388654639,-85.189890980631,Georgia,230,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,166273,33.7106199905791,-85.1602210035362,Georgia,231,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,98125,33.7872806478853,-85.2079012609462,Georgia,232,2025,Metropolitan
+110,Bank OZK,"Dalton, GA",1,106923,34.782702700797,-84.7931032913056,Georgia,236,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,130374,34.5309760070084,-83.9771100059045,Georgia,239,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,120725,34.7989848883818,-92.2375506871555,Arkansas,24,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,59203,33.9612140012724,-83.5926239768009,Georgia,240,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,68856,34.0123509867174,-83.8293079677174,Georgia,241,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,53708,33.9959219954889,-83.7349259777623,Georgia,242,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,94703,34.1014320096473,-83.8131670205915,Georgia,243,2025,Metropolitan
+110,Bank OZK,"Athens-Clarke County, GA",1,94138,33.941071240204,-83.474891848618,Georgia,244,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,821241,33.5791648207994,-85.0777556310028,Georgia,245,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,114284,34.1882926245165,-84.131683699848,Georgia,246,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,76898,34.0607830062792,-84.3888499608211,Georgia,247,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,73458,34.0727599915456,-83.9848429821361,Georgia,248,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,146935,33.9740160172684,-84.551852999512,Georgia,249,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,181103,34.2557840022518,-84.4637610411568,Georgia,250,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,130109,34.0983960004982,-84.5206569808166,Georgia,253,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,172696,33.8340189977707,-83.8954530022552,Georgia,254,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,162015,33.8545809797265,-84.005164990204,Georgia,255,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,64304,33.8965593056316,-83.9589390200698,Georgia,256,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,427684,33.9934730129286,-83.7237369752134,Georgia,257,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,94879,33.6574449872866,-84.0198070015851,Georgia,258,2025,Metropolitan
+110,Bank OZK,"Dalton, GA",1,295229,34.7688850130741,-84.9700730037736,Georgia,259,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,168133,34.1507699872138,-84.1729452107907,Georgia,260,2025,Metropolitan
+110,Bank OZK,"Macon-Bibb County, GA",1,136918,32.8655449873142,-83.6921370326039,Georgia,262,2025,Metropolitan
+110,Bank OZK,"Macon-Bibb County, GA",1,63063,32.935043998498,-83.7232240027391,Georgia,263,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,129319,33.2808149807531,-85.0980469794469,Georgia,264,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,102182,33.5581519983514,-85.0840620254558,Georgia,265,2025,Metropolitan
+110,Bank OZK,"Columbus, GA-AL",1,99374,32.5529109791633,-84.9472950142563,Georgia,266,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,50234,34.7842527242417,-91.8979526992521,Arkansas,27,2025,Metropolitan
+110,Bank OZK,"Athens-Clarke County, GA",1,142498,33.914467,-83.468537,Georgia,273,2025,Metropolitan
+110,Bank OZK,"Macon-Bibb County, GA",1,67020,32.8384402701723,-83.6254131700785,Georgia,276,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,134479,34.5801256851201,-92.5744362234019,Arkansas,278,2025,Metropolitan
+110,Bank OZK,"Winston-Salem, NC",1,116687,35.9063879800525,-80.5786530303669,North Carolina,279,2025,Metropolitan
+110,Bank OZK,"Fort Smith, AR-OK",1,57797,35.3275356745941,-94.4070813499424,Arkansas,28,2025,Metropolitan
+110,Bank OZK,"North Port-Bradenton-Sarasota, FL",1,150725,27.4963910120988,-82.6330020104689,Florida,281,2025,Metropolitan
+110,Bank OZK,"North Port-Bradenton-Sarasota, FL",1,155313,27.4454559886108,-82.4844920367396,Florida,283,2025,Metropolitan
+110,Bank OZK,"Tampa-St. Petersburg-Clearwater, FL",1,99600,27.8531849933104,-82.3273320227523,Florida,284,2025,Metropolitan
+110,Bank OZK,"Tampa-St. Petersburg-Clearwater, FL",1,99111,27.7731299809055,-82.6334660326286,Florida,285,2025,Metropolitan
+110,Bank OZK,"Tampa-St. Petersburg-Clearwater, FL",1,174731,27.854159012369,-82.7364920278715,Florida,286,2025,Metropolitan
+110,Bank OZK,"Punta Gorda, FL",1,214083,27.0047690053493,-82.1292430079213,Florida,287,2025,Metropolitan
+110,Bank OZK,"Tampa-St. Petersburg-Clearwater, FL",1,103750,27.7722699976397,-82.3907279606865,Florida,288,2025,Metropolitan
+110,Bank OZK,"Tampa-St. Petersburg-Clearwater, FL",1,56740,27.9082330166866,-82.5264339905821,Florida,289,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,52860,34.6578885822827,-92.4267015757164,Arkansas,29,2025,Metropolitan
+110,Bank OZK,"Tampa-St. Petersburg-Clearwater, FL",1,154183,27.8272530193567,-82.6390089851986,Florida,290,2025,Metropolitan
+110,Bank OZK,"Punta Gorda, FL",1,165867,26.8955100173575,-82.0286060227214,Florida,291,2025,Metropolitan
+110,Bank OZK,"Tampa-St. Petersburg-Clearwater, FL",1,109689,28.2653370025872,-82.1887110183894,Florida,292,2025,Metropolitan
+110,Bank OZK,"Punta Gorda, FL",1,84745,27.0186729901557,-82.0527090234927,Florida,293,2025,Metropolitan
+110,Bank OZK,"Tampa-St. Petersburg-Clearwater, FL",1,115218,27.7706180083429,-82.7200309758634,Florida,294,2025,Metropolitan
+110,Bank OZK,"Tampa-St. Petersburg-Clearwater, FL",1,186714,27.921625998766,-82.814021028026,Florida,295,2025,Metropolitan
+110,Bank OZK,"Tampa-St. Petersburg-Clearwater, FL",1,98904,27.9243939965611,-82.4932940409022,Florida,296,2025,Metropolitan
+110,Bank OZK,"Tampa-St. Petersburg-Clearwater, FL",1,46592,27.9271979946304,-82.4541050393386,Florida,298,2025,Metropolitan
+110,Bank OZK,"North Port-Bradenton-Sarasota, FL",1,157418,27.4800250108726,-82.43272003831,Florida,299,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,22936,35.0869984808783,-92.4373193515638,Arkansas,30,2025,Metropolitan
+110,Bank OZK,"Cape Coral-Fort Myers, FL",1,90537,26.5845300101603,-81.8823660360101,Florida,300,2025,Metropolitan
+110,Bank OZK,"Cape Coral-Fort Myers, FL",1,129109,26.5457751492717,-81.8676666924114,Florida,302,2025,Metropolitan
+110,Bank OZK,"Cape Coral-Fort Myers, FL",1,86274,26.3264344056726,-81.8049864851893,Florida,303,2025,Metropolitan
+110,Bank OZK,"Cape Coral-Fort Myers, FL",1,50025,26.6141490156828,-81.7971985236729,Florida,304,2025,Metropolitan
+110,Bank OZK,"Cape Coral-Fort Myers, FL",1,158546,26.6506224482556,-81.976074204769,Florida,305,2025,Metropolitan
+110,Bank OZK,"Cape Coral-Fort Myers, FL",1,126722,26.5640071297828,-81.9419064661217,Florida,306,2025,Metropolitan
+110,Bank OZK,"Miami-Fort Lauderdale-West Palm Beach, FL",1,372930,25.8021290115091,-80.1952930261359,Florida,308,2025,Metropolitan
+110,Bank OZK,"North Port-Bradenton-Sarasota, FL",1,79267,27.3366266150664,-82.540236302903,Florida,309,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,119071,34.8502648271854,-92.4046068789459,Arkansas,31,2025,Metropolitan
+110,Bank OZK,"Miami-Fort Lauderdale-West Palm Beach, FL",1,164981,25.7599130113422,-80.2592470311836,Florida,310,2025,Metropolitan
+110,Bank OZK,"Miami-Fort Lauderdale-West Palm Beach, FL",1,29497,25.7956185891276,-80.1417619085844,Florida,311,2025,Metropolitan
+110,Bank OZK,"Tampa-St. Petersburg-Clearwater, FL",1,261777,28.082775002384,-82.5053049728765,Florida,312,2025,Metropolitan
+110,Bank OZK,"Miami-Fort Lauderdale-West Palm Beach, FL",1,67746,25.7963369906863,-80.3285210301767,Florida,313,2025,Metropolitan
+110,Bank OZK,"Miami-Fort Lauderdale-West Palm Beach, FL",1,116130,26.1155699873881,-80.1429740247051,Florida,314,2025,Metropolitan
+110,Bank OZK,"Fayetteville-Springdale-Rogers, AR",1,43506,36.1745431675457,-94.1610771856089,Arkansas,315,2025,Metropolitan
+110,Bank OZK,"Dallas-Fort Worth-Arlington, TX",1,69802,33.1369269979824,-96.7324910204543,Texas,332,2025,Metropolitan
+110,Bank OZK,"Winston-Salem, NC",1,129177,36.0669670142545,-80.3245660291633,North Carolina,333,2025,Metropolitan
+110,Bank OZK,"Dallas-Fort Worth-Arlington, TX",1,74813,32.6344549947579,-97.3491400095397,Texas,334,2025,Metropolitan
+110,Bank OZK,"Dallas-Fort Worth-Arlington, TX",1,34958,32.7578690055562,-96.8667850349409,Texas,335,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,13558,33.6807069898027,-84.4156709613352,Georgia,336,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,124242,33.8429460180192,-84.3152779733368,Georgia,338,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,15129,33.7551309977449,-84.266437964638,Georgia,339,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,63834,35.1115764002835,-92.4461297376296,Arkansas,34,2025,Metropolitan
+110,Bank OZK,"Miami-Fort Lauderdale-West Palm Beach, FL",1,89360,25.9402909809445,-80.1487759780832,Florida,342,2025,Metropolitan
+110,Bank OZK,"Houston-Pasadena-The Woodlands, TX",1,118082,29.7329680154719,-95.3907339812213,Texas,343,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,52128,33.8417459809416,-84.3737259900075,Georgia,345,2025,Metropolitan
+110,Bank OZK,"Jacksonville, FL",1,107501,30.2636900079733,-81.3882520056275,Florida,346,2025,Metropolitan
+110,Bank OZK,"Tampa-St. Petersburg-Clearwater, FL",1,170323,28.0361470198427,-82.6572210167801,Florida,347,2025,Metropolitan
+110,Bank OZK,"Jacksonville, FL",1,36597,30.19395898571,-81.741759023509,Florida,348,2025,Metropolitan
+110,Bank OZK,"Jacksonville, FL",1,162102,30.146882990444,-81.633144981057,Florida,349,2025,Metropolitan
+110,Bank OZK,"Jonesboro, AR",1,36588,35.816608561755,-90.669086626143,Arkansas,350,2025,Metropolitan
+110,Bank OZK,"Nashville-Davidson--Murfreesboro--Franklin, TN",1,461869,36.305129991986,-86.687316003576,Tennessee,351,2025,Metropolitan
+110,Bank OZK,"Dallas-Fort Worth-Arlington, TX",1,33625,32.952485020716,-96.805230014401,Texas,352,2025,Metropolitan
+110,Bank OZK,"Houston-Pasadena-The Woodlands, TX",1,27829,29.864484023579,-95.536530589321,Texas,353,2025,Metropolitan
+110,Bank OZK,"Miami-Fort Lauderdale-West Palm Beach, FL",1,20407,26.367751991548,-80.166961690489,Florida,354,2025,Metropolitan
+110,Bank OZK,"Austin-Round Rock-San Marcos, TX",1,8576,30.184479430404,-97.85066272032,Texas,355,2025,Metropolitan
+110,Bank OZK,"Houston-Pasadena-The Woodlands, TX",1,7296,29.51165899146,-95.185060014569,Texas,356,2025,Metropolitan
+110,Bank OZK,"Burlington, NC",1,2597,36.079132215157,-79.483997514231,North Carolina,357,2025,Metropolitan
+110,Bank OZK,"Houston-Pasadena-The Woodlands, TX",1,2425,29.775299769722,-95.389422800108,Texas,358,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,2310,34.046251007377,-84.290646996484,Georgia,359,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,88856,34.6254913630044,-92.4986863412692,Arkansas,36,2025,Metropolitan
+110,Bank OZK,"Houston-Pasadena-The Woodlands, TX",1,79072,30.001992612168,-95.472745438814,Texas,360,2025,Metropolitan
+110,Bank OZK,"Asheville, NC",1,844,35.623070935543,-82.55419393189,North Carolina,361,2025,Metropolitan
+110,Bank OZK,"Dallas-Fort Worth-Arlington, TX",1,1937,33.229791989191,-97.146151017931,Texas,362,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,1509,34.75686284935,-92.453735811847,Arkansas,363,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,99676,34.9754027021003,-92.0209055636175,Arkansas,37,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,80705,34.800507083908,-92.4373522086243,Arkansas,38,2025,Metropolitan
+110,Bank OZK,"Fort Smith, AR-OK",1,34768,35.3463970103052,-94.338316048653,Arkansas,42,2025,Metropolitan
+110,Bank OZK,"Fort Smith, AR-OK",1,21675,35.4365577308404,-94.3443908827058,Arkansas,46,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,28747,35.0917995092886,-92.4149547575111,Arkansas,50,2025,Metropolitan
+110,Bank OZK,"Dallas-Fort Worth-Arlington, TX",1,134335,33.1214030008397,-96.8048110030614,Texas,53,2025,Metropolitan
+110,Bank OZK,"Dallas-Fort Worth-Arlington, TX",1,1358516,32.8642910126896,-96.8075640391594,Texas,56,2025,Metropolitan
+110,Bank OZK,"Texarkana, TX-AR",1,129336,33.4695689861987,-94.0679450212363,Texas,57,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,29802,34.7887233853288,-92.2153463550915,Arkansas,58,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,44256,34.7535203140012,-92.3669868858377,Arkansas,59,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,79937,34.8345508122978,-92.2311855537031,Arkansas,60,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,15530,34.7893993020008,-92.2760093734954,Arkansas,62,2025,Metropolitan
+110,Bank OZK,"Fayetteville-Springdale-Rogers, AR",1,74527,36.0889962483612,-94.1209892249298,Arkansas,65,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,51130,34.5758958790143,-92.5911921254247,Arkansas,66,2025,Metropolitan
+110,Bank OZK,"Fayetteville-Springdale-Rogers, AR",1,57114,36.3565767725727,-94.2142476207643,Arkansas,68,2025,Metropolitan
+110,Bank OZK,"Fayetteville-Springdale-Rogers, AR",1,45573,36.3427364902304,-94.1803875817826,Arkansas,69,2025,Metropolitan
+110,Bank OZK,"Hot Springs, AR",1,72762,34.4549027757975,-93.0653517195328,Arkansas,70,2025,Metropolitan
+110,Bank OZK,"Fayetteville-Springdale-Rogers, AR",1,66270,36.3347989117423,-94.1983970227644,Arkansas,71,2025,Metropolitan
+110,Bank OZK,"Texarkana, TX-AR",1,55347,33.4606503059439,-94.0374344745825,Arkansas,72,2025,Metropolitan
+110,Bank OZK,"Hot Springs, AR",1,134320,34.4931759706201,-93.0854061772513,Arkansas,75,2025,Metropolitan
+110,Bank OZK,"Fayetteville-Springdale-Rogers, AR",1,93085,36.4623307839326,-94.3014371834236,Arkansas,76,2025,Metropolitan
+110,Bank OZK,"Fayetteville-Springdale-Rogers, AR",1,77475,36.4413920354291,-94.2377403351654,Arkansas,77,2025,Metropolitan
+110,Bank OZK,"Dallas-Fort Worth-Arlington, TX",1,83764,33.122878467256,-96.824136654299,Texas,78,2025,Metropolitan
+110,Bank OZK,"Fayetteville-Springdale-Rogers, AR",1,42137,36.2837672449107,-94.1503654486269,Arkansas,80,2025,Metropolitan
+110,Bank OZK,"Hot Springs, AR",1,56624,34.4936662281368,-93.0374352880928,Arkansas,81,2025,Metropolitan
+110,Bank OZK,"Fayetteville-Springdale-Rogers, AR",1,67851,36.176231827669,-94.2098494685301,Arkansas,82,2025,Metropolitan
+110,Bank OZK,"Fayetteville-Springdale-Rogers, AR",1,56724,36.0790320933233,-94.2093281979716,Arkansas,83,2025,Metropolitan
+110,Bank OZK,"Fayetteville-Springdale-Rogers, AR",1,81298,36.3132195762886,-94.1718514515887,Arkansas,86,2025,Metropolitan
+110,Bank OZK,"Dallas-Fort Worth-Arlington, TX",1,120987,33.002927984578,-96.9892540280657,Texas,87,2025,Metropolitan
+110,Bank OZK,"Little Rock-North Little Rock-Conway, AR",1,80273,34.7442787628361,-92.274382529908,Arkansas,89,2025,Metropolitan
+110,Bank OZK,"Dallas-Fort Worth-Arlington, TX",1,130178,33.0915019861849,-96.6860639940417,Texas,90,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,106632,34.1993789906611,-84.7917790267578,Georgia,91,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,58369,34.3763510158175,-84.9295589909561,Georgia,92,2025,Metropolitan
+110,Bank OZK,"Rome, GA",1,363381,34.2891480002036,-85.1504789689325,Georgia,93,2025,Metropolitan
+110,Bank OZK,"Atlanta-Sandy Springs-Roswell, GA",1,143658,34.1549639981962,-84.8186619695363,Georgia,94,2025,Metropolitan
+131,Seacoast National Bank,"Port St. Lucie, FL",1,1430506,27.1918429840318,-80.2519059927444,Florida,0,2025,Metropolitan
+131,Seacoast National Bank,"Port St. Lucie, FL",1,175909,27.2446680009573,-80.2390410286556,Florida,1,2025,Metropolitan
+131,Seacoast National Bank,"Port St. Lucie, FL",1,168027,27.1652770029219,-80.2272369620517,Florida,10,2025,Metropolitan
+131,Seacoast National Bank,"Orlando-Kissimmee-Sanford, FL",1,75800,28.8214510068397,-81.6974050093896,Florida,100,2025,Metropolitan
+131,Seacoast National Bank,"Orlando-Kissimmee-Sanford, FL",1,62358,28.493536,-81.470882,Florida,107,2025,Metropolitan
+131,Seacoast National Bank,"Tampa-St. Petersburg-Clearwater, FL",1,151225,27.9475169852132,-82.4602550093365,Florida,117,2025,Metropolitan
+131,Seacoast National Bank,"Tampa-St. Petersburg-Clearwater, FL",1,51669,27.9234700174646,-82.8127840267554,Florida,118,2025,Metropolitan
+131,Seacoast National Bank,"Tampa-St. Petersburg-Clearwater, FL",1,116222,27.940775001394,-82.4930409912453,Florida,119,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,171537,26.7091819861481,-80.1704720315386,Florida,120,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,95308,26.5277789936065,-80.1012139581615,Florida,124,2025,Metropolitan
+131,Seacoast National Bank,"Orlando-Kissimmee-Sanford, FL",1,192471,28.5452789899638,-81.3794980297701,Florida,125,2025,Metropolitan
+131,Seacoast National Bank,"Orlando-Kissimmee-Sanford, FL",1,83655,28.8247069990377,-81.6541460071011,Florida,127,2025,Metropolitan
+131,Seacoast National Bank,"Deltona-Daytona Beach-Ormond Beach, FL",1,153048,29.2839969877545,-81.0610090107941,Florida,130,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,91206,26.6723733612673,-80.2478976828269,Florida,137,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,233339,26.7182750099889,-80.0537139643234,Florida,138,2025,Metropolitan
+131,Seacoast National Bank,"Tampa-St. Petersburg-Clearwater, FL",1,86037,27.8604259937352,-82.6395440020783,Florida,140,2025,Metropolitan
+131,Seacoast National Bank,"Tampa-St. Petersburg-Clearwater, FL",1,173118,27.7846130206178,-82.6387899660686,Florida,141,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,45796,26.7136249815643,-80.0930260122256,Florida,142,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,178111,26.1125719901699,-80.142503967575,Florida,143,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,86010,26.4626430144825,-80.0682930276116,Florida,144,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,68585,26.2102520075674,-80.1565760095402,Florida,145,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,122740,26.3671090157549,-80.1278509759008,Florida,146,2025,Metropolitan
+131,Seacoast National Bank,"Palm Bay-Melbourne-Titusville, FL",1,314984,28.1126489854011,-80.6199800039735,Florida,148,2025,Metropolitan
+131,Seacoast National Bank,"Port St. Lucie, FL",1,147241,27.0614530085872,-80.1368229650598,Florida,15,2025,Metropolitan
+131,Seacoast National Bank,"North Port-Bradenton-Sarasota, FL",1,105281,27.1004434847741,-82.4319482326656,Florida,150,2025,Metropolitan
+131,Seacoast National Bank,"North Port-Bradenton-Sarasota, FL",1,74590,27.3383383673329,-82.4672904435859,Florida,151,2025,Metropolitan
+131,Seacoast National Bank,"North Port-Bradenton-Sarasota, FL",1,207912,27.3352568025399,-82.5325090263656,Florida,152,2025,Metropolitan
+131,Seacoast National Bank,"Naples-Marco Island, FL",1,65427,26.1436909791751,-81.795763038935,Florida,153,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,56873,26.1206819844063,-80.2594949678795,Florida,154,2025,Metropolitan
+131,Seacoast National Bank,"Gainesville, FL",1,56835,29.4460589901759,-82.6377360255633,Florida,156,2025,Metropolitan
+131,Seacoast National Bank,"Gainesville, FL",1,57917,29.1366370111409,-83.0324820070679,Florida,158,2025,Metropolitan
+131,Seacoast National Bank,"Gainesville, FL",1,183803,29.3884820208831,-82.4438650358673,Florida,159,2025,Metropolitan
+131,Seacoast National Bank,"Gainesville, FL",1,57755,29.6134890148479,-82.8026979988453,Florida,162,2025,Metropolitan
+131,Seacoast National Bank,"Homosassa Springs, FL",1,76666,28.878896003067,-82.5819510233504,Florida,167,2025,Metropolitan
+131,Seacoast National Bank,"Ocala, FL",1,174308,29.1605253513719,-82.1684273994381,Florida,169,2025,Metropolitan
+131,Seacoast National Bank,"Sebastian-Vero Beach-West Vero Corridor, FL",1,130328,27.6236730197555,-80.3888119758986,Florida,17,2025,Metropolitan
+131,Seacoast National Bank,"Gainesville, FL",1,140479,29.6191691998782,-82.3789411014178,Florida,171,2025,Metropolitan
+131,Seacoast National Bank,"Gainesville, FL",1,138510,29.4954449960475,-82.8653050320527,Florida,172,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,69586,25.8669409881658,-80.3077530210408,Florida,173,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,92010,25.6875522533516,-80.3527925043339,Florida,174,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,249383,25.788944026357,-80.335708344512,Florida,176,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,395087,25.7628340207799,-80.1934469957805,Florida,177,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,102854,25.9522579591157,-80.1429158755632,Florida,178,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,401963,25.7052507987625,-80.2830214429437,Florida,180,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,134863,26.3594839984362,-80.083060013169,Florida,182,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,290017,25.7514309863334,-80.2622849681705,Florida,186,2025,Metropolitan
+131,Seacoast National Bank,"Jacksonville, FL",1,131573,30.2353600134306,-81.5159300162997,Florida,187,2025,Metropolitan
+131,Seacoast National Bank,"Port St. Lucie, FL",1,336297,27.4290889815563,-80.3263880034566,Florida,19,2025,Metropolitan
+131,Seacoast National Bank,"Tampa-St. Petersburg-Clearwater, FL",1,5551,27.953440979101,-82.504605000142,Florida,190,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,1561,26.093033019497,-80.370946033099,Florida,191,2025,Metropolitan
+131,Seacoast National Bank,"Port St. Lucie, FL",1,144829,27.287622492585,-80.2978472572443,Florida,20,2025,Metropolitan
+131,Seacoast National Bank,"Port St. Lucie, FL",1,284277,27.1731390185529,-80.2934519854809,Florida,22,2025,Metropolitan
+131,Seacoast National Bank,"Sebastian-Vero Beach-West Vero Corridor, FL",1,108107,27.6494609926126,-80.3561499623378,Florida,23,2025,Metropolitan
+131,Seacoast National Bank,"Port St. Lucie, FL",1,116859,27.3161670180579,-80.3852999584681,Florida,33,2025,Metropolitan
+131,Seacoast National Bank,"Sebastian-Vero Beach-West Vero Corridor, FL",1,134983,27.7783949895661,-80.4961229676828,Florida,36,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,234141,26.9345520003394,-80.1028780173989,Florida,45,2025,Metropolitan
+131,Seacoast National Bank,"Sebastian-Vero Beach-West Vero Corridor, FL",1,127344,27.6395789802259,-80.4525389990083,Florida,47,2025,Metropolitan
+131,Seacoast National Bank,"Port St. Lucie, FL",1,198907,27.1347129797259,-80.2065350023129,Florida,5,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,304225,26.8455480070997,-80.0834699720533,Florida,50,2025,Metropolitan
+131,Seacoast National Bank,"Port St. Lucie, FL",1,79319,27.2640379924625,-80.4020100368196,Florida,67,2025,Metropolitan
+131,Seacoast National Bank,"Orlando-Kissimmee-Sanford, FL",1,280919,28.5982070204794,-81.3628959941505,Florida,69,2025,Metropolitan
+131,Seacoast National Bank,"Orlando-Kissimmee-Sanford, FL",1,171335,28.5515639924219,-81.5787510394951,Florida,70,2025,Metropolitan
+131,Seacoast National Bank,"Orlando-Kissimmee-Sanford, FL",1,89461,28.6190899874173,-81.2612729618611,Florida,72,2025,Metropolitan
+131,Seacoast National Bank,"Orlando-Kissimmee-Sanford, FL",1,111671,28.6733359883881,-81.5043439629974,Florida,73,2025,Metropolitan
+131,Seacoast National Bank,"Orlando-Kissimmee-Sanford, FL",1,82133,28.8113844086578,-81.317129972788507,Florida,74,2025,Metropolitan
+131,Seacoast National Bank,"Orlando-Kissimmee-Sanford, FL",1,231139,28.547464990312,-81.7394170359426,Florida,75,2025,Metropolitan
+131,Seacoast National Bank,"Palm Bay-Melbourne-Titusville, FL",1,90511,28.2302229889809,-80.7032319999781,Florida,77,2025,Metropolitan
+131,Seacoast National Bank,"Port St. Lucie, FL",1,173260,27.2711339859623,-80.3171570134895,Florida,8,2025,Metropolitan
+131,Seacoast National Bank,"Miami-Fort Lauderdale-West Palm Beach, FL",1,162586,26.586979998549,-80.0740140118049,Florida,84,2025,Metropolitan
+131,Seacoast National Bank,"Deltona-Daytona Beach-Ormond Beach, FL",1,134023,29.230825001947,-81.0887780045573,Florida,87,2025,Metropolitan
+131,Seacoast National Bank,"Deltona-Daytona Beach-Ormond Beach, FL",1,59917,29.1235850048827,-81.0251030330663,Florida,91,2025,Metropolitan
+131,Seacoast National Bank,"Orlando-Kissimmee-Sanford, FL",1,184733,28.6872719920647,-81.4139540220676,Florida,93,2025,Metropolitan
+131,Seacoast National Bank,"Orlando-Kissimmee-Sanford, FL",1,129568,28.7826839921915,-81.3461669726978,Florida,96,2025,Metropolitan
+131,Seacoast National Bank,"Orlando-Kissimmee-Sanford, FL",1,55515,28.426016996813,-81.2535180250432,Florida,97,2025,Metropolitan
+148,Bank of Madison,"Atlanta-Sandy Springs-Roswell, GA",1,264194,33.5967349883154,-83.4672769734018,Georgia,0,2025,Metropolitan
+148,Bank of Madison,"Atlanta-Sandy Springs-Roswell, GA",1,61353,33.5698610141733,-83.4770849735835,Georgia,2,2025,Metropolitan
+148,Bank of Madison,"Atlanta-Sandy Springs-Roswell, GA",1,65566,33.6764820076881,-83.7083130160851,Georgia,4,2025,Metropolitan
+160,Exchange Bank,"Macon-Bibb County, GA",1,53084,32.9978959928257,-83.5553909761623,Georgia,3,2025,Metropolitan
+169,First National Bank of Griffin,"Atlanta-Sandy Springs-Roswell, GA",1,172840,33.245043993576,-84.2630289607975,Georgia,0,2025,Metropolitan
+169,First National Bank of Griffin,"Atlanta-Sandy Springs-Roswell, GA",1,54297,33.2741307604293,-84.2888675553613,Georgia,1,2025,Metropolitan
+169,First National Bank of Griffin,"Atlanta-Sandy Springs-Roswell, GA",1,18641,33.341258980027,-84.1772159580967,Georgia,10,2025,Metropolitan
+169,First National Bank of Griffin,"Atlanta-Sandy Springs-Roswell, GA",1,39780,33.2221810115605,-84.2710340136062,Georgia,2,2025,Metropolitan
+169,First National Bank of Griffin,"Atlanta-Sandy Springs-Roswell, GA",1,37495,33.381672,-84.30161,Georgia,6,2025,Metropolitan
+170,The Peoples Bank of Georgia,"Columbus, GA-AL",1,55733,32.6780219900785,-84.5405810161217,Georgia,0,2025,Metropolitan
+170,The Peoples Bank of Georgia,"Columbus, GA-AL",1,50530,32.3180569541676,-84.5182548070687,Georgia,2,2025,Metropolitan
+172,United Bank,"Atlanta-Sandy Springs-Roswell, GA",1,180529,33.1059619845385,-84.3422060107543,Georgia,0,2025,Metropolitan
+172,United Bank,"Atlanta-Sandy Springs-Roswell, GA",1,63456,33.208506680742,-84.372266607861,Georgia,1,2025,Metropolitan
+172,United Bank,"Atlanta-Sandy Springs-Roswell, GA",1,91090,33.5979159984728,-83.4650880393875,Georgia,12,2025,Metropolitan
+172,United Bank,"Atlanta-Sandy Springs-Roswell, GA",1,212574,33.2955540126635,-83.9610259719012,Georgia,15,2025,Metropolitan
+172,United Bank,"Atlanta-Sandy Springs-Roswell, GA",1,13817,33.3538741341754,-84.1198865072593,Georgia,16,2025,Metropolitan
+172,United Bank,"Atlanta-Sandy Springs-Roswell, GA",1,179262,33.5995599830521,-83.8363090361638,Georgia,17,2025,Metropolitan
+172,United Bank,"Atlanta-Sandy Springs-Roswell, GA",1,102640,33.3836160057148,-84.7844470407741,Georgia,19,2025,Metropolitan
+172,United Bank,"Atlanta-Sandy Springs-Roswell, GA",1,225471,33.2425969807629,-84.2644510344902,Georgia,2,2025,Metropolitan
+172,United Bank,"Atlanta-Sandy Springs-Roswell, GA",1,41121,33.2469209950636,-84.2860859838715,Georgia,23,2025,Metropolitan
+172,United Bank,"Macon-Bibb County, GA",1,134374,33.0337709994213,-83.9381209965507,Georgia,26,2025,Metropolitan
+172,United Bank,"Macon-Bibb County, GA",1,35813,32.9496607792203,-83.8066191502254,Georgia,27,2025,Metropolitan
+172,United Bank,"Atlanta-Sandy Springs-Roswell, GA",1,32880,32.9843468464465,-84.5831164804678,Georgia,28,2025,Metropolitan
+172,United Bank,"Atlanta-Sandy Springs-Roswell, GA",1,14784,33.4039639976825,-84.7078490186054,Georgia,29,2025,Metropolitan
+172,United Bank,"Atlanta-Sandy Springs-Roswell, GA",1,90144,33.2741920199591,-84.2918300182986,Georgia,3,2025,Metropolitan
+175,The Commercial Bank,"Athens-Clarke County, GA",1,120254,33.882657486892,-83.1553781835855,Georgia,0,2025,Metropolitan
+175,The Commercial Bank,"Athens-Clarke County, GA",1,57521,33.9747529961051,-83.2878500145338,Georgia,2,2025,Metropolitan
+175,The Commercial Bank,"Athens-Clarke County, GA",1,86328,33.9161940030363,-83.4616780297187,Georgia,4,2025,Metropolitan
+175,The Commercial Bank,"Athens-Clarke County, GA",1,96553,34.1246500510705,-83.2215947229208,Georgia,5,2025,Metropolitan
+175,The Commercial Bank,"Athens-Clarke County, GA",1,30201,34.0388779919776,-83.2134130146417,Georgia,6,2025,Metropolitan
+178,Talbot State Bank,"Columbus, GA-AL",1,13188,32.7875649988593,-84.5603680073099,Georgia,0,2025,Metropolitan
+178,Talbot State Bank,"Atlanta-Sandy Springs-Roswell, GA",1,32857,33.4618119958145,-84.4515859915184,Georgia,6,2025,Metropolitan
+197,Alliance Bank,"Chicago-Naperville-Elgin, IL-IN",1,90019,40.929409000524,-87.15548200866,Indiana,2,2025,Metropolitan
+197,Alliance Bank,"Lafayette-West Lafayette, IN",1,36278,40.517162,-87.250461,Indiana,4,2025,Metropolitan
+197,Alliance Bank,"Lafayette-West Lafayette, IN",1,31690,40.4937159970839,-87.0952189746756,Indiana,5,2025,Metropolitan
+214,Washington State Bank,"Iowa City, IA",1,412494,41.2986999802751,-91.6934489978913,Iowa,0,2025,Metropolitan
+226,Guthrie County State Bank,"Des Moines-West Des Moines, IA",1,59323,41.6919999996629,-94.3579550154311,Iowa,0,2025,Metropolitan
+226,Guthrie County State Bank,"Des Moines-West Des Moines, IA",1,146714,41.6775319965917,-94.5026809789719,Iowa,1,2025,Metropolitan
+228,American State Bank,"Sioux Falls, SD-MN",1,55601,43.477005489858,-96.708315264763,South Dakota,10,2025,Metropolitan
+232,Solon State Bank,"Iowa City, IA",1,57987,41.8064734534391,-91.4927194321028,Iowa,0,2025,Metropolitan
+232,Solon State Bank,"Iowa City, IA",1,11090,41.7079785893243,-91.6604358664064,Iowa,1,2025,Metropolitan
+232,Solon State Bank,"Cedar Rapids, IA",1,16273,41.8734210132963,-91.5874370334611,Iowa,3,2025,Metropolitan
+235,Security State Bank,"Waterloo-Cedar Falls, IA",1,4133,42.8817200022199,-92.3077150119039,Iowa,7,2025,Metropolitan
+245,Raccoon Valley Bank,"Des Moines-West Des Moines, IA",1,236058,41.839784980677,-94.1047129938867,Iowa,0,2025,Metropolitan
+245,Raccoon Valley Bank,"Des Moines-West Des Moines, IA",1,78345,41.6177750200116,-94.0203819954863,Iowa,4,2025,Metropolitan
+245,Raccoon Valley Bank,"Des Moines-West Des Moines, IA",1,52885,41.6854530208211,-93.950183975487107,Iowa,6,2025,Metropolitan
+245,Raccoon Valley Bank,"Des Moines-West Des Moines, IA",1,41610,41.6961950164736,-93.775949018903,Iowa,7,2025,Metropolitan
+248,State Savings Bank,"Des Moines-West Des Moines, IA",1,104187,41.5590734145871,-93.7686455036761,Iowa,0,2025,Metropolitan
+248,State Savings Bank,"Des Moines-West Des Moines, IA",1,84519,41.827346,-93.151896,Iowa,2,2025,Metropolitan
+251,First Security Bank,"Sioux City, IA-NE-SD",1,16350,42.2342510066155,-95.7220789956497,Iowa,1,2025,Metropolitan
+253,Luana Savings Bank,"Des Moines-West Des Moines, IA",1,177747,41.7644738140495,-93.7206227832356,Iowa,3,2025,Metropolitan
+253,Luana Savings Bank,"Des Moines-West Des Moines, IA",1,143781,41.615589983582304,-93.844919006268,Iowa,4,2025,Metropolitan
+253,Luana Savings Bank,"Des Moines-West Des Moines, IA",1,94738,41.499869218795,-93.673541775753,Iowa,5,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,1406551,38.253654007918,-85.7316839907932,Kentucky,0,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,203612,38.2550589825283,-85.7588509962702,Kentucky,1,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,52269,38.3094199832107,-85.7715069995129,Indiana,10,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,77485,38.278308998923,-85.6376429766592,Kentucky,11,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,106297,38.2175839963451,-85.536661998153,Kentucky,12,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,84492,38.0919049857612,-85.6702820238053,Kentucky,15,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,68331,38.3263520143583,-85.7114909802151,Indiana,16,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,4798,38.2484959942514,-85.7968820379101,Kentucky,17,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,82582,38.1456119884484,-85.5868079911856,Kentucky,18,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,257358,38.2523800005449,-85.6579420183124,Kentucky,2,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,209023,38.3316029833311,-85.7990579799745,Indiana,20,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Indianapolis-Carmel-Greenwood, IN",1,111323,39.7703469822976,-86.159373031072,Indiana,21,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,67918,38.2341450025486,-85.6317230060844,Kentucky,22,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,78916,38.2166259867217,-85.6269139729566,Kentucky,23,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,206469,37.995740483853,-85.711454869999,Kentucky,24,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,53093,38.3399649794865,-85.619724982241,Kentucky,25,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Cincinnati, OH-KY-IN",1,257319,39.0993920197242,-84.514483960585,Ohio,26,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Indianapolis-Carmel-Greenwood, IN",1,99342,39.9528850102578,-86.1588120302925,Indiana,27,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Cincinnati, OH-KY-IN",1,36685,39.1373490072495,-84.4437049908767,Ohio,28,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Cincinnati, OH-KY-IN",1,128429,39.1899330025492,-84.3627189585766,Ohio,29,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,184266,38.2472599988092,-85.5376120030589,Kentucky,3,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,96123,38.2238500137925,-85.6906489588742,Kentucky,30,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Indianapolis-Carmel-Greenwood, IN",1,66629,39.8811860009475,-86.0689580282518,Indiana,31,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,182549,38.4015440141789,-85.3748600023682,Kentucky,32,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,168617,38.3350240152027,-85.4646180316175,Kentucky,33,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,71920,38.3706110196051,-85.5923869859392,Kentucky,34,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,94371,38.2887759843323,-85.5121880143472,Kentucky,35,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,80506,38.1821150091394,-85.7688119661849,Kentucky,38,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Cincinnati, OH-KY-IN",1,96364,39.0349330050102,-84.4534499591465,Kentucky,39,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,210023,38.2005969799127,-85.7094260145488,Kentucky,4,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Indianapolis-Carmel-Greenwood, IN",1,24682,39.7147960028214,-86.3548570342152,Indiana,40,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,39431,37.9119870150052,-85.316766037287607,Kentucky,43,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,37976,38.1925330023246,-85.5632799889721,Kentucky,44,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,43841,38.060271,-85.546548,Kentucky,46,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Cincinnati, OH-KY-IN",1,42580,39.2535959879186,-84.4213760199125,Ohio,47,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,17496,38.101729351039,-85.870259878796,Kentucky,48,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Lexington-Fayette, KY",1,143056,38.2119159857798,-84.2496330031425,Kentucky,49,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,97727,38.162926988752,-85.8318609771467,Kentucky,5,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Lexington-Fayette, KY",1,53680,37.9956360198537,-84.1783760134961,Kentucky,50,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Lexington-Fayette, KY",1,52614,38.2311970033828,-84.5340889806552,Kentucky,52,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Lexington-Fayette, KY",1,56971,38.196980252155,-84.270885604833,Kentucky,54,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Lexington-Fayette, KY",1,41077,38.1923040087299,-84.5638090300205,Kentucky,55,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Lexington-Fayette, KY",1,14346,37.8603115452047,-84.6617525922721,Kentucky,56,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Lexington-Fayette, KY",1,76207,37.986439018504,-84.2072110177051,Kentucky,57,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Lexington-Fayette, KY",1,58620,38.0491540106242,-84.7110150310728,Kentucky,59,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,116603,38.1385470079903,-85.6790100157629,Kentucky,6,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Lexington-Fayette, KY",1,42566,37.895140048954,-84.5666882062529,Kentucky,64,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Lexington-Fayette, KY",1,80476,38.0409879833651,-84.4927810339689,Kentucky,65,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Lexington-Fayette, KY",1,49102,38.0250450167921,-84.4075120167842,Kentucky,66,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Lexington-Fayette, KY",1,26218,37.9690010137712,-84.5015380273115,Kentucky,67,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,72630,38.2107079858941,-85.2153559891579,Kentucky,69,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,97339,38.209866987639,-85.5983160089694,Kentucky,7,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Cincinnati, OH-KY-IN",1,97712,39.0077439970373,-84.6514989922994,Kentucky,70,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,51635,38.2217060067792,-85.3490200198018,Kentucky,71,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,67653,38.212430005992,-85.2430059598959,Kentucky,72,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,131025,38.2834380112046,-85.6324539918604,Kentucky,74,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,37161,38.1899059881409,-85.2108369698798,Kentucky,75,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,107463,38.2426160053548,-85.5156420290077,Kentucky,78,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,138043,38.3051820091462,-85.5767010085176,Kentucky,8,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,39912,38.2654639837637,-85.539539002599,Kentucky,81,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Louisville/Jefferson County, KY-IN",1,82724,38.3256009958338,-85.5670510072108,Kentucky,82,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Cincinnati, OH-KY-IN",1,47484,39.0086789983365,-84.5552370252811,Kentucky,84,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Cincinnati, OH-KY-IN",1,13555,39.319767266881,-84.314133277889,Ohio,88,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Indianapolis-Carmel-Greenwood, IN",1,58319,39.635733994486,-86.083427037151,Indiana,89,2025,Metropolitan
+258,Stock Yards Bank & Trust Company,"Indianapolis-Carmel-Greenwood, IN",1,5397,39.569088084091,-86.162182343201,Indiana,90,2025,Metropolitan
+267,Kentucky Farmers Bank Corporation,"Huntington-Ashland, WV-KY-OH",1,54767,38.4176329935052,-82.5987109740259,Kentucky,0,2025,Metropolitan
+267,Kentucky Farmers Bank Corporation,"Huntington-Ashland, WV-KY-OH",1,141946,38.434544991904,-82.692679987612,Kentucky,1,2025,Metropolitan
+267,Kentucky Farmers Bank Corporation,"Huntington-Ashland, WV-KY-OH",1,50323,38.4821730193133,-82.6483170048559,Kentucky,3,2025,Metropolitan
+267,Kentucky Farmers Bank Corporation,"Huntington-Ashland, WV-KY-OH",1,11465,38.1191400103826,-82.6199229725729,Kentucky,4,2025,Metropolitan
+275,"Morgantown Bank & Trust Company, Incorporated","Bowling Green, KY",1,217537,37.2263449883211,-86.6830590025909,Kentucky,0,2025,Metropolitan
+275,"Morgantown Bank & Trust Company, Incorporated","Bowling Green, KY",1,47189,37.2298526275134,-86.6917451271612,Kentucky,1,2025,Metropolitan
+275,"Morgantown Bank & Trust Company, Incorporated","Bowling Green, KY",1,26326,36.9904059809588,-86.4937190182943,Kentucky,4,2025,Metropolitan
+275,"Morgantown Bank & Trust Company, Incorporated","Bowling Green, KY",1,41289,36.9614600003517,-86.4317250374852,Kentucky,5,2025,Metropolitan
+275,"Morgantown Bank & Trust Company, Incorporated","Bowling Green, KY",1,2812,37.2276883087327,-86.6812987424572,Kentucky,6,2025,Metropolitan
+275,"Morgantown Bank & Trust Company, Incorporated","Bowling Green, KY",1,14512,36.899324994022,-86.519251971747,Kentucky,8,2025,Metropolitan
+287,Community Financial Services Bank,"Paducah, KY-IL",1,201823,37.0830560182608,-88.6554919782353,Kentucky,5,2025,Metropolitan
+287,Community Financial Services Bank,"Paducah, KY-IL",1,66774,37.058783996412,-88.5765890165123,Kentucky,8,2025,Metropolitan
+292,The Monticello Banking Company,"Bowling Green, KY",1,25283,36.9442439903246,-86.4302390098713,Kentucky,12,2025,Metropolitan
+292,The Monticello Banking Company,"Lexington-Fayette, KY",1,18606,38.0200139889587,-84.5573739914956,Kentucky,20,2025,Metropolitan
+292,The Monticello Banking Company,"Lexington-Fayette, KY",1,12209,37.9817070150663,-84.591298990227,Kentucky,21,2025,Metropolitan
+292,The Monticello Banking Company,"Louisville/Jefferson County, KY-IN",1,5171,38.2642499908173,-85.5672830182907,Kentucky,22,2025,Metropolitan
+292,The Monticello Banking Company,"Bowling Green, KY",1,20795,36.968313,-86.424907,Kentucky,4,2025,Metropolitan
+296,Bank of Edmonson County,"Bowling Green, KY",1,169424,37.1924240129033,-86.2676320161054,Kentucky,0,2025,Metropolitan
+296,Bank of Edmonson County,"Bowling Green, KY",1,56391,37.0342390178862,-86.3413670316066,Kentucky,1,2025,Metropolitan
+296,Bank of Edmonson County,"Bowling Green, KY",1,22811,37.0505670071815,-86.2082889798136,Kentucky,2,2025,Metropolitan
+303,United Cumberland Bank,"Knoxville, TN",1,41992,36.3336511041629,-84.1788044135335,Tennessee,6,2025,Metropolitan
+306,Bank of Zachary,"Baton Rouge, LA",1,232270,30.6490297758249,-91.1537551000499,Louisiana,0,2025,Metropolitan
+306,Bank of Zachary,"Baton Rouge, LA",1,9247,30.646756,-91.2407869999999,Louisiana,2,2025,Metropolitan
+306,Bank of Zachary,"Baton Rouge, LA",1,20139,30.5381809922579,-90.956093981376,Louisiana,5,2025,Metropolitan
+306,Bank of Zachary,"Baton Rouge, LA",1,27066,30.7842339121813,-91.3253373236134,Louisiana,7,2025,Metropolitan
+306,Bank of Zachary,"Baton Rouge, LA",1,66987,30.54122106663,-91.028932384694,Louisiana,8,2025,Metropolitan
+307,Landmark Bank,"Baton Rouge, LA",1,115748,30.865458981537,-91.0184949874033,Louisiana,0,2025,Metropolitan
+307,Landmark Bank,"Baton Rouge, LA",1,24963,30.6471220127526,-91.1051637824183,Louisiana,2,2025,Metropolitan
+307,Landmark Bank,"Baton Rouge, LA",1,6217,30.8295524406936,-90.6676578218502,Louisiana,3,2025,Metropolitan
+307,Landmark Bank,"Baton Rouge, LA",1,35786,30.6532710188316,-91.185021442913,Louisiana,5,2025,Metropolitan
+307,Landmark Bank,"Baton Rouge, LA",1,1772,30.403411670422,-91.232398146807,Louisiana,7,2025,Metropolitan
+314,The Mer Rouge State Bank,"Monroe, LA",1,41302,32.775805984985,-91.7927390112508,Louisiana,0,2025,Metropolitan
+321,Holmes County Bank,"Jackson, MS",1,73757,33.1128789357053,-90.0521514805569,Mississippi,0,2025,Metropolitan
+321,Holmes County Bank,"Jackson, MS",1,34528,32.9689996026506,-89.9084835064079,Mississippi,1,2025,Metropolitan
+321,Holmes County Bank,"Jackson, MS",1,6154,33.196742605975,-89.778091418454,Mississippi,3,2025,Metropolitan
+324,Citizens Bank,"Hattiesburg, MS",1,32777,31.314141001233,-89.465927970347,Mississippi,10,2025,Metropolitan
+324,Citizens Bank,"Hattiesburg, MS",1,34036,31.413785988192,-89.5556330259683,Mississippi,9,2025,Metropolitan
+327,Merchants and Planters Bank,"Jackson, MS",1,93609,32.259934000792,-90.4230999902,Mississippi,0,2025,Metropolitan
+327,Merchants and Planters Bank,"Jackson, MS",1,16155,32.349533989257,-90.15227298725,Mississippi,10,2025,Metropolitan
+327,Merchants and Planters Bank,"Jackson, MS",1,9815,32.350189342112,-90.463066429907,Mississippi,2,2025,Metropolitan
+327,Merchants and Planters Bank,"Jackson, MS",1,21098,32.3343500040166,-90.3224169883516,Mississippi,3,2025,Metropolitan
+340,"The Peoples Bank, Biloxi, Mississippi","Gulfport-Biloxi, MS",1,144726,30.3959929851796,-88.8865979802267,Mississippi,0,2025,Metropolitan
+340,"The Peoples Bank, Biloxi, Mississippi","Gulfport-Biloxi, MS",1,25579,30.437812982331,-88.885362990613,Mississippi,1,2025,Metropolitan
+340,"The Peoples Bank, Biloxi, Mississippi","Gulfport-Biloxi, MS",1,30761,30.4573959999054,-89.0999269714113,Mississippi,10,2025,Metropolitan
+340,"The Peoples Bank, Biloxi, Mississippi","Gulfport-Biloxi, MS",1,101808,30.3653280019599,-89.0980899935114,Mississippi,12,2025,Metropolitan
+340,"The Peoples Bank, Biloxi, Mississippi","Gulfport-Biloxi, MS",1,21337,30.3752289993573,-89.3762359904946,Mississippi,14,2025,Metropolitan
+340,"The Peoples Bank, Biloxi, Mississippi","Gulfport-Biloxi, MS",1,2916,30.6351659822441,-89.1319529661592,Mississippi,15,2025,Metropolitan
+340,"The Peoples Bank, Biloxi, Mississippi","Gulfport-Biloxi, MS",1,17582,30.8398989964462,-89.1387760029821,Mississippi,16,2025,Metropolitan
+340,"The Peoples Bank, Biloxi, Mississippi","Gulfport-Biloxi, MS",1,14040,30.3485830129816,-89.1507769604916,Mississippi,19,2025,Metropolitan
+340,"The Peoples Bank, Biloxi, Mississippi","Gulfport-Biloxi, MS",1,22247,30.4013359874493,-88.9865029738222,Mississippi,2,2025,Metropolitan
+340,"The Peoples Bank, Biloxi, Mississippi","Gulfport-Biloxi, MS",1,25465,30.3040800105334,-89.3857750154034,Mississippi,20,2025,Metropolitan
+340,"The Peoples Bank, Biloxi, Mississippi","Gulfport-Biloxi, MS",1,43330,30.4427509052953,-88.9370088314466,Mississippi,21,2025,Metropolitan
