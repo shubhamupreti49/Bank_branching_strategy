@@ -1,12 +1,10 @@
-🏦 The Deposit Magnet: Quantifying the Drivers of Bank Geographic Spread
+#The Deposit Magnet: Quantifying the Drivers of Bank Geographic Spread
 
-Project Title: Bank Branching Strategy: Where the Money Is, Not Where the Competition Is
+#Bank Branching Strategy: Where the Money Is, Not Where the Competition Is
 
 Author: Shubham Upreti | Date: October 16, 2025
 
-
-
-[]([REPLACE THIS WITH YOUR ACTUAL GITHUB REPO URL])
+[]([[REPLACE THIS WITH YOUR ACTUAL GITHUB REPO URL]](https://github.com/shubhamupreti49/Bank_branching_strategy))
 
 🎯 Core Insight: Challenging the Role of Competition
 
